@@ -1,3 +1,3 @@
 # git-live-demo
 
-This is a git live demo.
+Let's make a merge conflict, starting on Github.
